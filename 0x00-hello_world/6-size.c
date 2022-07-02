@@ -6,8 +6,8 @@
 int main(void)
 {
 int i;
-long int l;
-long long int ll;
+long int I;
+long long int II;
 float d;
 char c;
 
