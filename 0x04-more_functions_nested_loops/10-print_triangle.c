@@ -3,9 +3,6 @@
 /**
  * print_triangle - print triangle with size var
  * @var: size of triangle to print
- *
- * Created by: Sanctus-Peter
- * cc: 7th july, 2022
  */
 
 void print_triangle(int var)

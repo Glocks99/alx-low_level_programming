@@ -9,9 +9,6 @@
  * buzz if its a multiple of 5
  * and fizz buzz if its both a multiple of 3 and 5
  *
- * Created by: Sanctus-Peter
- * cc: 7th july, 2022
- *
  * Return: 0 if successful
  */
 

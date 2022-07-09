@@ -2,9 +2,6 @@
 
 /**
  * print_numbers - prints number from 0-9
- *
- * Created by: Sanctus-Peter
- * cc: 7th july, 2022
  */
 
 void print_numbers(void)

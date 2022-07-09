@@ -18,9 +18,6 @@ void print(int var)
 
 /**
  * more_numbers - print numbers up to 14
- *
- * Created by: Sanctus-Peter
- * cc: 7th july, 2022
  */
 
 void more_numbers(void)

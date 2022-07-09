@@ -3,9 +3,6 @@
 /**
  * print_line - print lines (_) n number of times
  * @n: integer variable
- *
- * Created by: Sanctus-Peter
- * cc: 7th july, 2022
  */
 
 void print_line(int n)

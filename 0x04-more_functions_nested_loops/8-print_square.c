@@ -3,9 +3,6 @@
 /**
  * print_square - print square
  * @size: integer variable
- *
- * Created by: Sanctus-Peter
- * cc: 7th july, 2022
  */
 
 void print_square(int size)

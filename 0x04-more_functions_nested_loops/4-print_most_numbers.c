@@ -2,9 +2,6 @@
 
 /**
  * print_most_numbers - print numbers from 0-9 excluding 2 and 4
- *
- * Created by: sanctus-Peter
- * cc: 7th july, 2022
  */
 
 void print_most_numbers(void)
