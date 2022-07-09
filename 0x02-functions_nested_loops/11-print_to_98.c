@@ -9,9 +9,6 @@ void print(int n);
 /**
  * print_to_98 - print all natural numbers from var to 98
  * @var: the starting limit
- *
- * Created by: Sanctus-Peter
- * cc: 5th july, 2022
  */
 void print_to_98(int var)
 {

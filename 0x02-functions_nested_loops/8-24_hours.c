@@ -2,10 +2,6 @@
 
 /**
  * jack_bauer - every minute of the day of jack bauer
- *
- * Created - Sanctus-Peter
- * cc: 5th july, 2022
- *
  */
 
 void jack_bauer(void)

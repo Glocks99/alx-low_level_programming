@@ -2,10 +2,6 @@
 
 /**
  * main - first 50 fibonacci number
- *
- * Created by: Sanctus-Peter
- * cc: 5th july, 2022
- *
  * Return: 0 if successful
  */
 int main(void)
