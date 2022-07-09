@@ -10,11 +10,6 @@
  * @month: month in number format
  * @day: day of month
  * @year: year
- *
- * Created by: ALX
- * modified by: Sanctus-Peter
- * dat modified: 6th july, 2022
- *
  * Return: void
  */
 
