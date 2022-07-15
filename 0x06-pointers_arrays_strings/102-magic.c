@@ -2,7 +2,9 @@
 
 /**
  * main -> the code line is executed here
- *Return (0) succesful
+ * @%p\n: param1
+ * @&a: param2
+ *Return: (0) succesful
  */
 int main(void)
 {
@@ -12,15 +14,6 @@ int main(void)
 
 	a[2] = 1024;
 	p = &n;
-
-/**
- * write your line of code here...
- * Remember:
- * - you are not allowed to use a
- * - you are not allowed to modify p
- * - only one statement
- * - you are not allowed to code anything else than this line of code
- */
 
 printf("%p\n", &a[2]);
 printf("%p\n", p);
