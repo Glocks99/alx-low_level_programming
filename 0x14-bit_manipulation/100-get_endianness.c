@@ -16,4 +16,3 @@ int get_endianness(void)
 
 	return (0);
 }
-jjj
