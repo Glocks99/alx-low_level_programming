@@ -1,1 +1,2 @@
-New Directory Working with Dynamic Libraries
+New Directory
+Working with Dynamic Libraries
